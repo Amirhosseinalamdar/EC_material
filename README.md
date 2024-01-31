@@ -1,2 +1,2 @@
 # EC_material
-Sharif EX course matrials
+Sharif EC course matrials
